@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Pr-9 var-3</string>
+    <string name="kofe_img">TODO</string>
+    <string name="sladosti_img">TODO</string>
+    <string name="kofe_text">Кофе</string>
+    <string name="tea_img">TODO</string>
+    <string name="tea_text">Чай</string>
+    <string name="sladosti_text">Сладости</string>
+    <string name="kombo_img">TODO</string>
+    <string name="kombo_text">Комбо</string>
+    <string name="murmay_text">Кофейня “Мур-мяу”</string>
+    <string name="poloski_img">TODO</string>
+    <string name="zavtrak_text">Завтрак</string>
+    <string name="kategorii_text">Выбери одну категорию</string>
+    <string name="rezult_text">Показать результаты</string>
+</resources>
